@@ -10,6 +10,7 @@ namespace DCPHW
     {
         static void Main(string[] args)
         {
+            var a = "dsdsad";
         }
     }
 }
